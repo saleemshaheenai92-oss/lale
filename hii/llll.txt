@@ -1,2 +1,2 @@
-to set your account's default identity.
+to set AA
 Omit --global to set the identity only in this repository.

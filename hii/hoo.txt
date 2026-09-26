@@ -1,1 +1,2 @@
+ to set AA
  git config --global user.
