@@ -1,2 +1,4 @@
  to set AA
  git config --global user.
+a=10
+ fsofhwer,khfl.e
